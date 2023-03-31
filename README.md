@@ -59,3 +59,8 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+=========================
+Sources used:
+- class lecture notes on webhooks: https://uofa-cmput404.github.io/cmput404-slides/09-Websockets.html#/1
+- class examples on webhook usage: https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples
